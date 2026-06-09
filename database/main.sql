@@ -181,7 +181,7 @@ INSERT INTO utilisateur (nom, email, mot_de_passe, role)
 VALUES
 ('Bakary KONE', 'bakarykone.secu@gmail.com', '12345', 'administrateur'),
 ('Yacouba KONE', '', '123456', 'administrateur'),
-('Aboubacar Oumar Thiocary', '', '1234567', 'administrateur'),
+('Boubacar Oumar Thiocary', '', '1234567', 'administrateur'),
 ('Amadou LANDOURE', '', '12345678', 'administrateur'),
 ('Gassire Baba SANGARE', '', '12345678', 'administrateur'),
 ('Fatou Diallo', 'fatou@gmail.com', '12345', 'utilisateur'),
